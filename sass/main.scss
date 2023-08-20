@@ -1,0 +1,35 @@
+@import "./utils/variables";
+@import "./base/reset";
+@import "./utils/visually-hidden";
+
+// header
+@import "./layout/studio/header";
+@import "./components/logo";
+@import "./components/icon";
+@import "./layout/studio/contact";
+
+// main
+@import "./components/button";
+@import "./layout/studio/hero";
+@import "./components/section__title";
+@import "./layout/studio/features";
+@import "./layout/studio/work";
+@import "./layout/studio/team";
+@import "./layout/studio/person";
+@import "./components/social";
+@import "./layout/studio/client";
+
+// Footer
+@import "./layout/studio/footer";
+@import "./components/contact-form";
+
+// Portfolio
+@import "./components/button-filter";
+@import "./layout/portfolio/gallery";
+
+// Modalka
+@import "./components/close-btn";
+@import "./components/modal/backdrop";
+@import "./components/modal/modal";
+@import "./components/modal/form";
+@import "./components/modal/policy";
