@@ -4,12 +4,12 @@ https://monosnap.com/file/o0xWDhWqykr4WOE0Q2rfasHEf2aCrG
 
 # Получаем контакт по id - выводим в консоль объект контакта или null, если контакта с таким id не существует.
 
-https://monosnap.com/file/6cF0HBkNXIllIzZrHs65GSCZ0tVlUV
+https://monosnap.com/file/LaSjpxBMWtBBKQ32f6fUiHAUuWsc6X
 
 # Добавляем контакт и выводим в консоль созданный контакт
 
-https://monosnap.com/file/Fe8lUyJR18yVgpZzoNb4xwckoQf6Tv
+https://monosnap.com/file/rJPqCXVVqLZK0OCnJJpcFF2HnegB1R
 
 # Удаляем контакт и выводим в консоль удаленный контакт или null, если контакта с таким id не существует.
 
-https://monosnap.com/file/pKFzkOssaUiKKKC0PKysYtgWdMC1RA
+https://monosnap.com/file/24ijvChU2r6DUJOW0UHoNHDGsSQQt1
