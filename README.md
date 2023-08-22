@@ -8,8 +8,8 @@ https://monosnap.com/file/LaSjpxBMWtBBKQ32f6fUiHAUuWsc6X
 
 # Добавляем контакт и выводим в консоль созданный контакт
 
-https://monosnap.com/file/rJPqCXVVqLZK0OCnJJpcFF2HnegB1R
+https://monosnap.com/file/L2tye4tRGun5SGGdg6ERtrtHwxQgJX
 
 # Удаляем контакт и выводим в консоль удаленный контакт или null, если контакта с таким id не существует.
 
-https://monosnap.com/file/24ijvChU2r6DUJOW0UHoNHDGsSQQt1
+https://monosnap.com/file/4UUWZghlLxoEujxuEFWkvzzilIGxIz
